@@ -58,10 +58,12 @@ Copy code
 python main.py
 For web-based versions, open the index.html in a web browser.
 
-**Usage**
+
 
 
   Adding Grades
+
+
     1.Open the application (either the desktop version or web version).
     2.Select a subject from the list (e.g., Math, Science, History).
     3.Input grades for assignments, tests, and projects.
@@ -69,17 +71,23 @@ For web-based versions, open the index.html in a web browser.
 
 
 **Setting Goals**
+
+
     1.Navigate to the "Goals" section.
     2.Set a target grade for each subject.
     3.Track progress toward your goals and identify areas where improvement is needed.
 
 
 **Viewing Progress**
+
+
     1.The dashboard will show a grade summary with visual representations (charts/graphs) of your performance over time.
     2.Real-time grade updates will be reflected after each assessment is entered.
 
 
   Contributing
+
+
 **Fork the repository.**
 Create a new branch (git checkout -b feature-branch).
 Make your changes and commit them (git commit -am 'Add feature').
