@@ -3,7 +3,10 @@ A simple and efficient grade tracking system for students, teachers, and parents
 
 **Feature**
   1.Grade Tracking: Input and track grades for assignments, exams, projects, and quizzes.
-  2.Subject-wise Organization: Grades are organized by subject to provide a clear overview.
+ 
+
+
+ 2.Subject-wise Organization: Grades are organized by subject to provide a clear overview.
   3.Average Grades: Automatically calculates average grades for each subject and overall performance.
   4.Progress Visualization: Provides charts/graphs to visualize progress over time.
   5.Target Grades: Students can set target grades and compare current performance against goals.
